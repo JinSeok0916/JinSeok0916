@@ -15,4 +15,3 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSeok0916)](https://github.com/anuraghazra/github-readme-stats)
